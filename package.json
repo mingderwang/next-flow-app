@@ -17,6 +17,8 @@
   "devDependencies": {
     "babel-eslint": "8.2.1",
     "babel-plugin-transform-flow-strip-types": "6.22.0",
-    "flow-bin": "0.64.0"
+    "flow-bin": "0.64.0",
+    "flow-typed": "^2.4.0",
+    "now-cli": "^0.0.0"
   }
 }
