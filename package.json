@@ -1,8 +1,8 @@
 {
-  "name": "with-flow",
-  "version": "1.0.0",
+  "name": "kibana-like",
+  "version": "0.0.2",
   "license": "MIT",
-  "author": "Jag Reehal",
+  "author": "Ming-der Wang <ming@log4analytics.com>",
   "scripts": {
     "dev": "next",
     "build": "next build",
